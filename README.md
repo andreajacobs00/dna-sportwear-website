@@ -1,7 +1,7 @@
-# 🏆 Your Sports Brand — Website
+# 🏆 DNA Sportswear — Website
 
 A custom sports teamwear website built with HTML, Tailwind CSS, and vanilla JavaScript.
-Inspired by the look and feel of Akuma Sports. Deployable to GitHub Pages in minutes.
+Inspired by the look and feel of DNA Sports. Deployable to GitHub Pages in minutes.
 
 ---
 
